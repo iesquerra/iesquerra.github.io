@@ -2,8 +2,8 @@
 
 ## Programming projects by Ignasi Esquerra
 
-## Professional (at Universitat Politècnica de Catalunya):
+### Professional (at Universitat Politècnica de Catalunya):
 * ESEIAAT-Processing
 
-## Personal:
+### Personal:
 * Tile Puzzle
